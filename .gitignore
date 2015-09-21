@@ -1,0 +1,26 @@
+# ignore all bin directories
+# matches "bin" in any subfolder
+bin/
+
+# matches "build" in any subfolder
+build/
+
+# ignore all target directories
+target/
+
+# ignore all out directories
+out/
+
+# ignore all files ending with ~
+*~
+*.~*
+*.o
+moc*.*
+ui_*
+*qrc*
+.dir-locals.el
+.clang_complete
+Makefile
+GPATH
+GRTAGS
+GTAGS
