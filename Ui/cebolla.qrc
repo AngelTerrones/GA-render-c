@@ -2,6 +2,5 @@
   <qresource prefix="img">
     <file>../imagenes/ml.bmp</file>
     <file>../imagenes/icono.png</file>
-    <file>../imagenes/cebolla.jpg</file>
   </qresource>
 </RCC>
